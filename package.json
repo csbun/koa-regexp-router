@@ -1,0 +1,24 @@
+{
+  "name": "koa-regexp-router",
+  "version": "0.0.1",
+  "description": "Simple Regexp Router for Koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/csbun/koa-regexp-router.git"
+  },
+  "keywords": [
+    "koa",
+    "router",
+    "regexp"
+  ],
+  "author": "Hans Chan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/csbun/koa-regexp-router/issues"
+  },
+  "homepage": "https://github.com/csbun/koa-regexp-router#readme"
+}
